@@ -1,7 +1,7 @@
 # MorbiusAI Landing Page
 
 This is a modern landing page built for **MorbiusAI**, a platform that helps users find jobs faster.
-
+- [Vercel](https://morbiousaianshumanjsx.vercel.app)
 ---
 
 ## Project Details
@@ -43,11 +43,17 @@ navigate to folder then open terminal
 
 ## step 2
 
+copy the bash script 
+
 ```
 npm install 
 ```
 ## step 3
+copy the bash script to run locally 
+
 ```
 npm run dev
 ```
+
+
 
