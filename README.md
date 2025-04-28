@@ -35,3 +35,19 @@ Feel free to reach out for collaboration, feedback, or project ideas!
 
 > Built with passion 🚀
 
+# Follow These Steps 
+
+
+## step 1
+navigate to folder then open terminal
+
+## step 2
+
+```
+npm install 
+```
+## step 3
+```
+npm run dev
+```
+
