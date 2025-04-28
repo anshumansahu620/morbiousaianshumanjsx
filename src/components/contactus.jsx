@@ -2,7 +2,7 @@ import { ArrowRight } from "lucide-react";
 
 export default function ContactUsBanner() {
   return (
-    <section className="flex justify-center py-16">
+    <section className="flex justify-center py-16 h-84">
       <div className="bg-blue-600 w-[70%] rounded-2xl p-8 flex items-center justify-between text-white">
         {/* Left side */}
         <div>
